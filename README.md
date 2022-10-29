@@ -1,4 +1,4 @@
-# Machine-Learning-Practices
+# Machine-Learning-Trees
 
 First use Data_cleaned.ipynb to clean the dataset of "The US Presidential Elections", including find and remove bad data, split, aggregate, rename, normalize, summarize and visualize dataset.
 
