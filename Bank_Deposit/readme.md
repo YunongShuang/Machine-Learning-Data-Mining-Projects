@@ -1,0 +1,1 @@
+The dataset is about a direct marketing campaigns in Portuguese. We use the data to apply on a classification task. Based on client information is from phone contact, after several times of contact, We would like to predict if the client finally subscribe the term deposit.
